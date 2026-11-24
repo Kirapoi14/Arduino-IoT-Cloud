@@ -7,4 +7,4 @@ In this tutorial, we will practice the process of configuring the NodeMCU-ESP826
 Arduino Cloud IoT. To validate the setup, we will transmit DHT11 sensor data from the board
 to the cloud and establish a switch that can manipulate the LED connected to the NodeMCU.
 
-<img src="Dashboard.png" />
+<img src="Dashboard.jpg" />
