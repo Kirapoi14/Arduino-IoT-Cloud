@@ -1,4 +1,4 @@
-# EIE2113-Arduino-IoT-Cloud
+# Arduino-IoT-Cloud
 This repository is about the connectivity between NodeMCU-ESP8266 with the Arduino Cloud IoT and DHT11.
 
 ## Objective:
