@@ -4,9 +4,9 @@
 :Revision: version#
 :License: Public Domain
 
-= Project: {Project}
+= Project: Ines
 
-Describe your project
+Just a random name of my project
 
 == Step 1: Installation
 Please describe the steps to install this project.
